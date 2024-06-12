@@ -48,8 +48,9 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Conclusion
 
-- Accuracy on training data has increased by using Augmentor library
-- Model is still overfitting
-- The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
-- The Model can be further improved by tuning the hyperparameter
+1.As per the final model (model3) Training accuracy and validation accuracy increases.
+
+2.Model overfitting issue is solved.
+
+3.Class rebalance helps in augmentation and achieving the best Training and validation accuracy.
  
